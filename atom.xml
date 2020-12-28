@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://datatechtree.github.io.</id>
+    <title>Data TechTree</title>
+    <updated>2020-12-28T14:51:52.066Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://datatechtree.github.io."/>
+    <link rel="self" href="https://datatechtree.github.io./atom.xml"/>
+    <subtitle>Let&apos;s play a sandbox game called data science!</subtitle>
+    <logo>https://datatechtree.github.io./images/avatar.png</logo>
+    <icon>https://datatechtree.github.io./favicon.ico</icon>
+    <rights>All rights reserved 2020, Data TechTree</rights>
+    <entry>
+        <title type="html"><![CDATA[About Data TechTree]]></title>
+        <id>https://datatechtree.github.io./post/about-data-techtree/</id>
+        <link href="https://datatechtree.github.io./post/about-data-techtree/">
+        </link>
+        <updated>2020-12-28T14:38:56.000Z</updated>
+    </entry>
+</feed>
