@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://datatechtree.github.io.</id>
     <title>Data TechTree</title>
-    <updated>2021-01-01T09:26:55.069Z</updated>
+    <updated>2021-01-01T09:28:56.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://datatechtree.github.io."/>
     <link rel="self" href="https://datatechtree.github.io./atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://datatechtree.github.io./post/001-dl-c2-linear-algebra/</id>
         <link href="https://datatechtree.github.io./post/001-dl-c2-linear-algebra/">
         </link>
-        <updated>2021-01-01T09:26:47.000Z</updated>
+        <updated>2021-01-01T09:28:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[About Data TechTree]]></title>
