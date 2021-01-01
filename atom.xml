@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://datatechtree.github.io.</id>
     <title>Data TechTree</title>
-    <updated>2020-12-30T01:48:31.253Z</updated>
+    <updated>2021-01-01T09:16:23.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://datatechtree.github.io."/>
     <link rel="self" href="https://datatechtree.github.io./atom.xml"/>
     <subtitle>Let&apos;s play a sandbox game called data science!</subtitle>
     <logo>https://datatechtree.github.io./images/avatar.png</logo>
     <icon>https://datatechtree.github.io./favicon.ico</icon>
-    <rights>All rights reserved 2020, Data TechTree</rights>
+    <rights>All rights reserved 2021, Data TechTree</rights>
+    <entry>
+        <title type="html"><![CDATA[001-DL-C2-Linear Algebra-1]]></title>
+        <id>https://datatechtree.github.io./post/001-dl-c2-linear-algebra/</id>
+        <link href="https://datatechtree.github.io./post/001-dl-c2-linear-algebra/">
+        </link>
+        <updated>2020-12-31T05:36:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About Data TechTree]]></title>
         <id>https://datatechtree.github.io./post/about-data-techtree/</id>
